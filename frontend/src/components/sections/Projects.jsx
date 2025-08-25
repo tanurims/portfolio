@@ -139,7 +139,7 @@ const Projects = () => {
       category: "Frontend",
       projectType: "Portfolio",
       technologies: ["React", "Tailwind CSS"],
-      githubUrl: "https://github.com/AkithJayalath/we4u_web.git",
+      githubUrl: "https://github.com/tanurims/portfolio.git",
       featured: false,
     },
     {

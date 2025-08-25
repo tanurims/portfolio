@@ -35,8 +35,8 @@ const Hero = () => {
 
   const handleDownloadResume = () => {
     const link = document.createElement("a");
-    link.href = "/resume.pdf";
-    link.download = "TanuriMandini_CV.pdf";
+    link.href = "/TanuriMandini_CV_SE.pdf";
+    link.download = "TanuriMandini_CV_SE.pdf";
     link.click();
   };
 
