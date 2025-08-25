@@ -29,7 +29,7 @@ const About = () => {
   const stats = [
     { icon: Code, label: "Projects Completed", value: "8" },
     { icon: Coffee, label: "Cups of Tea", value: "500+" },
-    { icon: Package, label: "Frameworks Learned", value: "5+" },
+    { icon: Package, label: "Languages", value: "3+" },
     { icon: Moon, label: "Late-Night Coding Sessions", value: "100+" },
   ];
 
