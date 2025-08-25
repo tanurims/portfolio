@@ -39,6 +39,8 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
           {/* Logo */}
           <motion.div
             className="text-2xl font-bold gradient-text font-poppins"
+            onClick={() => (window.location.href = "#home")}
+            style={{ cursor: "pointer" }}
             whileHover={{ scale: 1.05 }}
             transition={{ type: "spring", stiffness: 300 }}
           >

@@ -58,7 +58,7 @@ const Hero = () => {
         >
           {/* Avatar/Profile Image */}
           <motion.div
-            className="mb-8 flex justify-center"
+            className="mb-8 mt-14 flex justify-center"
             variants={itemVariants}
           >
             <motion.div
