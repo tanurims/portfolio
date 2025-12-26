@@ -125,7 +125,29 @@ const Experience = () => {
       name: "Object Oriented Programming with Java",
       issuer: "LinkedIn",
       date: "2025",
-      status: "In Progress",
+      status: "Completed",
+      link: "https://www.linkedin.com/learning/certificates/2aff0b02331fc4b622c6907a0a0ce96ad8f70c64e4d609dc97a764f33ddb2015",
+    },
+    {
+      name: "Six Sigma Foundations",
+      issuer: "LinkedIn",
+      date: "2025",
+      status: "Completed",
+      link: "https://www.linkedin.com/learning/certificates/9becb24d1a8095502d62f6302c83727367ccae167cbd21b98d1ff4df6a592ad2",
+    },
+    {
+      name: "Lean Six Sigma: Define and Measure Tools",
+      issuer: "LinkedIn",
+      date: "2025",
+      status: "Completed",
+      link: "https://www.linkedin.com/learning/certificates/9d74c530a9d0e20bb463a67e0b49e287912906564ac32d60070ce3ef73f8996f",
+    },
+    {
+      name: "Lean Six Sigma: Analyze, Improve, and Control Tools",
+      issuer: "LinkedIn",
+      date: "2025",
+      status: "Completed",
+      link: "https://www.linkedin.com/learning/certificates/37f8a55089fff84dbdb0507f9fc121917fe694f02f7e1a05317950a44cb1470c",
     },
   ];
 
