@@ -66,13 +66,6 @@ const handleSubmit = async (e) => {
       color: "from-blue-500 to-cyan-500",
     },
     {
-      icon: Phone,
-      label: "Phone",
-      value: "+94 71 791 8084",
-      href: "tel:+94717918084",
-      color: "from-green-500 to-emerald-500",
-    },
-    {
       icon: MapPin,
       label: "Location",
       value: "Matara, Sri Lanka",
