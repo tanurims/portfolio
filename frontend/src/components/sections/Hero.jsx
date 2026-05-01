@@ -35,8 +35,8 @@ const Hero = () => {
 
   const handleDownloadResume = () => {
     const link = document.createElement("a");
-    link.href = "/TanuriMandini_CV_SE.pdf";
-    link.download = "TanuriMandini_CV_SE.pdf";
+    link.href = "/Tanuri Mandini_CV_SE.pdf";
+    link.download = "Tanuri Mandini_CV_SE.pdf";
     link.click();
   };
 
@@ -114,7 +114,7 @@ const Hero = () => {
             className="flex flex-wrap justify-center gap-3 mb-10"
             variants={itemVariants}
           >
-            {["React", "Spring Boot", "PostgreSQL", "MongoDB", "Node.js"].map(
+            {["React", "Spring Boot", "PostgreSQL", "C++", "Java", "C#"].map(
               (tech, index) => (
                 <motion.span
                   key={tech}
@@ -126,7 +126,7 @@ const Hero = () => {
                 >
                   {tech}
                 </motion.span>
-              )
+              ),
             )}
           </motion.div>
 

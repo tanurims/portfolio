@@ -137,6 +137,14 @@ const About = () => {
               </p>
 
               <p>
+                I have 6 months of hands-on experience as a Software Engineering
+                Intern, where I worked in a corporate environment following
+                Agile methodologies. This experience strengthened my practical
+                development skills, teamwork, and understanding of real-world
+                software development processes.
+              </p>
+
+              <p>
                 When I’m not coding, I’m exploring new technologies, or learning
                 something new. I’m driven by solving challenges, creating
                 user-focused solutions, and growing every day.
